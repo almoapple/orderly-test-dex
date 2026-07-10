@@ -7,3 +7,8 @@ node_modules
 # SpecStory explanation file
 .specstory/.what-is-this.md
 /public/manifest.json
+
+# Local env files (may contain sensitive config)
+.env
+.env.local
+.env.*.local

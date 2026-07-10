@@ -1,0 +1,13 @@
+[build]
+  command = "yarn build"
+  publish = "build/client"
+
+[build.environment]
+  NODE_VERSION = "20"
+  YARN_FLAGS = "--ignore-engines"
+
+# SPA fallback: serve index.html for all client-side routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
