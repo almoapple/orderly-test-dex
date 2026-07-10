@@ -15710,10 +15710,8 @@ stack-trace@0.0.x:
   resolved "https://registry.npmmirror.com/stack-trace/-/stack-trace-0.0.10.tgz#547c70b347e8d32b4e108ea1a2a159e5fdde19c0"
   integrity sha512-KGzahc7puUKkzyMt+IqAep+TVNbKP+k2Lmwhub39m1AsTSkaDutx56aDCo+HLDzf/D26BIHTJWNiTG1KAJiQCg==
 
-starchild-orderly-plugin@^1.0.0:
+"starchild-orderly-plugin@file:../starchild-orderly-plugin":
   version "1.0.0"
-  resolved "https://registry.npmmirror.com/starchild-orderly-plugin/-/starchild-orderly-plugin-1.0.0.tgz#abc36a920a728459500124f1e9a159da66e6adf0"
-  integrity sha512-vulOLzJJmwzlaTOVGRGfnh53jaTjHykU2pLrUoP5EDrWKhHiIudSk+DY9R/xB91qbH+43JAMP1kziXQJUj1Nzg==
 
 statuses@~2.0.1, statuses@~2.0.2:
   version "2.0.2"
